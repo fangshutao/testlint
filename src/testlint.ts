@@ -1,5 +1,5 @@
 const test = () => {
-  const getTest =() => {
+  const getTest =()=> {
     let name ='123123';
     console.log("test complete");
   };
