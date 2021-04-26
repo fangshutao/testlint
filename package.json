@@ -4,7 +4,6 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "prepare": "husky install",
     "lint-staged": "lint-staged"
   },
   "lint-staged": {
